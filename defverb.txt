@@ -1,0 +1,371 @@
+abandon x/x
+abhor x/
+addict x/
+advance x/
+affright x/
+aggregate /xx
+ameliorate x/xxx
+animate /xx
+annihilate x/xx
+arouse x/
+atone x/
+atrophy /xx
+avert x/
+baffle /x
+bajulate /xx
+balter /x
+banjax /x
+bash
+bay
+bedew x/
+befoul x/
+beget x/
+behold x/
+believe x/
+belittle x/x
+bellow /x
+bend
+besmut
+betray x/
+bid
+bind
+bind
+blast
+bloom
+bode
+break
+breathe
+bruit
+busy /x
+cast
+cease
+choke
+clash
+cling
+collapse x/
+collide x/
+collogue x/x
+concatenate x/xx
+condemn x/
+conjure /x
+contemn x/
+corrupt x/
+covet /x
+crackle /x
+crawl
+creep
+cross
+crowd
+daresay x/
+deem
+defenestrate x/xx
+defile x/
+defy x/
+dehisce x/
+deliquesce- dissolve
+deliver x/x
+deluge x/
+demoralize x/xx
+deracinate x/xx
+desert x/
+detest x/
+diddle /x
+discomfit x/x
+dismember x/x
+doctor /x
+doom
+draw
+dread
+drown
+dwell
+ebb
+elapse x/
+elude x/
+emblazon x/x
+enamour x/x
+enchant x/
+encroach x/
+enervate
+enew x/
+enfeeble
+enrapture x/x
+ensnare x/
+enwreathe x/
+ettle /x
+evade x/
+evince x/
+evoke x/
+exile /x
+expel x/
+extinguish x/x
+extirpate /xx
+extol x/
+extravagate x/xx
+exult x/
+fake
+fall
+famish /x
+fathom /x
+fester /x
+forbode x/
+forsake x/
+founder /x
+fray
+fuddle /x
+gallivant /xx
+gape
+glare
+gloze
+gnash
+gorgonize /xx
+govern /x
+guarantee xx/
+hail
+hallow /x
+hang
+haunt
+herald /x
+hinder /x
+hum
+ignite x/
+illect x/
+immure x/
+incur x/
+indoctrinate x/xx
+induratize x/xx
+injure /x
+insinuate x/xx
+inure x/
+invoke x/
+inwreathe x/
+jaunce
+kill
+kithe
+lament x/
+lampoon x/
+land-damn /x
+lapse
+lash
+lean
+linger /x
+listen /x
+lose
+lour /x
+lower /x
+lunge
+lurch
+lurk
+malinger x/x
+mangle /x
+manifest /xx
+maroon x/
+mask
+mate
+menace /x
+mesmerize /xx
+mimic /x
+mortifying /xxx
+mourn
+multiply /xx
+narcotize /xx
+nascent /x
+neglect x/
+obey x/
+obscure x/
+osculate /xx
+parch
+part
+pass
+peer
+perish /x
+perplex x/
+peruse x/
+pervade x/
+pistol-whip /xx
+poach
+pollute x/
+possess x/
+prick
+pule
+purloin x/
+quab
+quackle /x
+quell
+querken /x
+querl
+quiver /x
+rankle /x
+rattle /x
+ravage /x
+reap
+rear
+reck
+redound x/
+reel
+refel /x
+relapse x/
+render /x
+rendezvous xx/
+reside x/
+resile x/
+resist x/
+resonate /xx
+revel /x
+revere x/
+ricochet /x/
+riddle /x
+roll
+rouse
+rue
+ruffle /x
+salute x/
+satisfice /xx
+saunter /x
+scamper /x
+scarify /xx
+scintillate /xx
+scorch
+scorn
+screech
+secede x/
+secundate /xx
+seethe
+seize
+shatter /x
+shed
+shine
+shrill
+shrivel /x
+shudder /x
+simper /x
+sizzle /x
+skulk
+slaughter /x
+slink
+slumber /x
+smit
+smite
+snarl
+snatch
+sober /x
+sonder /x
+sophronize /xx
+sough
+sparge
+spark
+spatrify /xx
+spoil
+squander /x
+stagger /x
+starrify /xx
+stir
+straggle /x
+strand
+strew
+strop
+struggle /x
+stymie /x
+succumb x/
+surge
+swore
+taint
+tame
+tattle /x
+tear
+temerate /xx
+tether /x
+thrill
+throw
+thrust
+thump
+torment /x
+torture /x
+transmogrify x/xx
+tread
+treasure /x
+tremefy /xx
+triumph /x
+truncate /x
+tune
+twist
+ululate /xx
+unchain x/
+undo x/
+unhand x/
+upset x/
+vade
+vanish /x
+vanquish /x
+vaunt
+vendicate /xx
+venustate
+versify /xx
+vespertilionize /x/xxx
+vex
+viliorate /xxx
+vilipend /xx
+vitiate /xx
+vituperate x/xx
+vivify /xx
+vouchsafe x/
+waver /x
+welter /x
+woo
+wound
+wrangle /x
+wreck
+wrench
+wring
+writhe
+x-ray /x
+yaff
+yearn
+yellow /x
+zest
+steer
+bonk
+shrunk
+defile x/
+file
+dial /x
+streak
+dash
+slur
+concur
+fuel
+envy
+laze
+lust
+wait
+unveil x/
+toss
+uncowl x/
+cough
+squirm
+debunk x/
+beam
+tire
+pitch
+click
+seek
+crow
+show
+flow
+mow
+bawl
+sprawl
+propel x/
+assist x/
+enlist x/
+cane
+congest x/
+protest /x
+chime
+emboss x/
+shred
+expire x/
+afflict x/
+find
+delve
+wane
+estrange x/
