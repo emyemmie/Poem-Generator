@@ -25,6 +25,6 @@ Poem.py: The Poem class and all of its subclasses live here. They describe the m
 
 Author.py: Writes the poem! It takes an empty Poem from PoemGenerator.py and fills it with words. It is super messy, and, in the future, there will probably be different functions for each kind of poem, rather than the one-size-fits-all craziness that sort of happened as I slowly added new poem formats and the rhyming functionality.
 
-WordList.py: A list of words that the Author can choose from. It's basically just the stuff from the text file but keeps track of meter and number of syllables. I wanted to use a pre-made Python dictionary for those fields and more, but a lot of my Cool and Obscure words don't exist in any dictionaries today, and I would be heartbroken to lose "vespertilionize" (to turn into a bat) from my vocabulary, though it would probably be for the best.
+WordList.py: A list of words that the Author can choose from. It's basically just the stuff from the text files but keeps track of meter and number of syllables. I wanted to use a pre-made Python dictionary for those fields and more, but a lot of my Cool and Obscure words don't exist in any dictionaries today, and I would be heartbroken to lose "vespertilionize" (to turn into a bat) from my vocabulary, though it would probably be for the best.
 
 Meters.py: Just a few meters for the poems. Trochaic is my personal favorite. 
